@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootJPA
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 12402
+Implementation-Vendor-Id: com.example
+Spring-Boot-Version: 2.0.0.BUILD-SNAPSHOT
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: com.example.demo.SpringBootJpaApplication
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_66
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootJP
+ A/
+
